@@ -1,0 +1,3 @@
+A Basic GruntJS setup
+=========================
+This is only helpful for gruntJS verion 0.4 and up. there are some changes in version below 0.4, so if you are using lower version of GruntJS, please look for their own documentation.
