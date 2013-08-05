@@ -12,7 +12,9 @@ A little detail
 grunt-contrib-uglify : for JS
 grunt-contrib-cssmin : for CSS
 
-Note:
+Note
 ----------------------
 There is a "mincss" for grunt. Which seems to be old, make sure you are using "cssmin".
 
+cssmin is at https://npmjs.org/package/grunt-contrib-cssmin
+uglify is at https://npmjs.org/package/grunt-contrib-uglify
